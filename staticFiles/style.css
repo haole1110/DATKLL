@@ -1,0 +1,249 @@
+nav {
+    box-sizing: border-box;
+
+    position: relative;
+    width: 100%;
+    height: 69px;
+
+    background: #344378;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+}
+#button{
+    float: right;
+    margin-top: 14px;
+    margin-right: 15px;
+}
+label.logo{
+    position: absolute;
+    width: 812px;
+    height: 48px;
+    left: 382px;
+    top: 12px;
+
+    font-family: 'Tienne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48px;
+    padding-left: 44.8px;
+
+    color: #FFFFFF;
+
+}
+.checkbtn{
+     font-size: 30px;
+     color: white;
+     line-height: 80px;
+     
+}
+#menu{
+    cursor: pointer;
+    font-size: 40px;
+     color: white;
+     line-height: 70px;
+     padding-left: 20px;
+}
+#col1{
+    box-sizing: border-box;
+
+    position: relative;
+    width: 760px;
+    height: 516px;
+    
+    background: none;
+    /* border: 1px solid rgba(0, 0, 0, 0.1); */
+    border-radius: 2px;
+    margin-left: 143px;
+    margin-top: -10px;
+    float: left;
+}
+#col2{
+    float: right;
+    width: 310px;
+    height: 561px;
+    margin-right: 167px;
+    margin-top: 40px;
+}
+#row1{
+    box-sizing: border-box;
+
+    position: relative;
+    width: 310px;
+    height: 123px;
+
+    background: #C3D9F1;
+    border: 1px solid rgba(195, 217, 241, 0.1);
+    border-radius: 2px;
+}
+#content1_1{
+    position: absolute;
+    width: 214px;
+    height: 30px;
+    left: 20px;
+    top: 17px;
+
+    font-family: 'Tienne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #5A5A5A;
+}
+#content2_1{
+    position: absolute;
+    width: 81px;
+    height: 30px;
+    left: 20px;
+    top: 76px;
+
+    font-family: 'Tienne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #5A5A5A;
+}
+#content1_2{
+    text-align: center;
+    width: 209px;
+    height: 27px;
+    margin-left: 45px;
+
+    font-family: 'Tienne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #5A5A5A;
+
+}
+#content1_3{
+    position: absolute;
+    width: 177px;
+    height: 27px;
+    
+    margin-left: 75px;
+    font-family: 'Tienne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #5A5A5A;
+
+}
+#row2{
+    box-sizing: border-box;
+
+    position: relative;
+    width: 310px;
+    height: 124px;
+
+    background: #C3D9F1;
+    border: 1px solid rgba(195, 217, 241, 0.1);
+    border-radius: 2px;
+    margin-top: 16px;
+}
+#row3{
+    box-sizing: border-box;
+
+    position: relative;
+    width: 308px;
+    height: 223px;
+
+    background: #C3D9F1;
+    border: 1px solid rgba(195, 217, 241, 0.1);
+    border-radius: 2px;
+    margin-top: 16px;
+}
+#footer{
+    box-sizing: border-box;
+
+    position: relative;
+    width: 100%;
+    height: 75px;
+
+    background: #344378;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    clear: both;
+}
+#left{
+    float: left;
+    width: 172px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#right{
+    float: right;
+    width: 368px;
+}
+img{
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    left: 20px;
+    top: 43px;
+
+    mix-blend-mode: lighten;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+#logic{
+    position: absolute;
+    width: 172px;
+    /* height: 30px; */
+
+    font-family: 'Tienne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    /* identical to box height */
+
+    margin-bottom: 0px;
+    color: #FFFFFF;
+
+}
+#about{
+    position: absolute;
+    width: 64px;
+    height: 49px;
+    left: 1400px;
+    top: 6px;
+
+    font-family: 'Tienne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+#name{
+    position: absolute;
+    width: 89px;
+    height: 39px;
+    left: 1400px;
+    top: 31px;
+
+    font-family: 'Tienne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+
+    color: #FFFFFF;
+
+}
